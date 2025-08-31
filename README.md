@@ -1,4 +1,4 @@
-# Tuberculosis Early Treatment Departure Prediction
+# Identifying TB Patients at Risk of Early Treatment Departure Using a Bayesian-Optimized XGBoost Model
 
 This project implements a machine learning pipeline to predict the risk of early treatment departure (HAMA) among clinically diagnosed tuberculosis (TB) patients in the Philippines. Using XGBoost with Bayesian hyperparameter optimization (via Hyperopt), the model aims to assist healthcare practitioners in proactively identifying patients who may default on treatment, enabling timely intervention to improve outcomes.
 
@@ -55,4 +55,4 @@ The model demonstrates moderate predictive ability and serves as a foundation fo
 
 ---
 
-*If you have any questions or feedback, feel free to contact me at [jprmaulion[at]gmail[dot]com].*
+*If you have any questions or feedback, feel free to contact me at jprmaulion[at]gmail[dot]com.*
